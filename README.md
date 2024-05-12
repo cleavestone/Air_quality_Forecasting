@@ -40,3 +40,4 @@ Forecasting:
 
 Utilize the trained LSTM model to forecast PM2.5 concentration for future time steps.
 Update input sequences with forecasted values for iterative forecasting.
+![](https://github.com/cleavestone/Air_quality_Forecasting/blob/main/forecast.png)
