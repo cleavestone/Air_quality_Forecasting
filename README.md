@@ -1,4 +1,5 @@
 # Air_quality_Forecasting
+![](https://github.com/cleavestone/Air_quality_Forecasting/blob/main/forecast.png)
 ## Introduction
 This project focuses on implementing a Long Short-Term Memory (LSTM) neural network for multivariate time series forecasting. The goal is to predict the PM2.5 concentration, a measure of air quality, using historical data on various environmental factors such as temperature, pressure, and wind speed. The project aims to provide insights into air pollution trends and assist in decision-making for environmental management.
 
@@ -40,4 +41,4 @@ Forecasting:
 
 Utilize the trained LSTM model to forecast PM2.5 concentration for future time steps.
 Update input sequences with forecasted values for iterative forecasting.
-![](https://github.com/cleavestone/Air_quality_Forecasting/blob/main/forecast.png)
+
